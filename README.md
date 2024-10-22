@@ -41,3 +41,32 @@ Welcome to the Book Store Management System, a .NET Core MVC project using Entit
 ## ScreenShots
 ![login](https://github.com/user-attachments/assets/bbabbb1b-a58b-4913-b0c3-e84226a11980)
 
+
+![register](https://github.com/user-attachments/asse
+![forgotpassword](https://github.com/user-attachments/assets/f8958aa5-ec8b-49e7-9578-2ee342c3a172)
+ts/882fb5b5-219d-45d3-b9f9-c9033a30f74e)
+
+
+
+![resendemail](https://github.com/user-attachments/assets/e8feac9f-1686-41a4-91c2-17a5d40b567d)
+
+
+![manageaccount](https://github.com/user-attachments/assets/73c99a9b-501b-4699-81f1-8155f25a2720)
+![addbook](https://github.com/user-attachments/assets/b40150f9-8e1c-4490-bc3e-cc489e64fb35)
+
+
+
+![addgenre](https://github.com/user-attachments/assets/0948c622-9015-4150-b6f3-c9cf4d189341)
+
+![addpublisher](https://github.com/user-attachments/assets/80c15513-7f4f-4120-b7d1-1c7c7e44f454)
+
+![addauthor](https://github.com/user-attachments/assets/25560196-812e-4e23-994f-270caa6d22dd)
+
+![authorlist](https://github.com/user-attachments/assets/e9738db6-7ec9-4d7a-af71-301cda3e4200)
+
+![genrelist](https://github.com/user-attachments/assets/0dd9d257-ba84-4ca2-9aad-280c6806891a)
+
+![publisherlist](https://github.com/user-attachments/assets/2c86e4a1-2676-4525-a74b-254519d381e5)
+
+![booklist](https://github.com/user-attachments/assets/7ed1ee94-c85a-49ff-b818-c937ea283abf)
+

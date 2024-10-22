@@ -48,7 +48,7 @@ Welcome to the Book Store Management System, a .NET Core MVC project using Entit
 ```plaintext
 BookStore/
 │
-├── Connected Services/        # Connected services like Azure, APIs
+├── Connected Services/        # Connected services like APIs
 ├── Dependencies/              # NuGet package dependencies
 ├── Properties/                # Project properties (assembly info, launch settings, etc.)
 ├── wwwroot/                   # Static files (CSS, JS, images, etc.)

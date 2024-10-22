@@ -43,20 +43,24 @@ Welcome to the Book Store Management System, a .NET Core MVC project using Entit
 
 ## Project Structure
 
+-Here's the project structure:
+
+```plaintext
 BookStore/
-├── Connected Services/        # Services like  APIs
+│
+├── Connected Services/        # Connected services like Azure, APIs
 ├── Dependencies/              # NuGet package dependencies
-├── Properties/                # Project metadata
-├── wwwroot/                   # Static files (CSS, JS, Images, etc.)
-├── Areas/                     # For ASP.NET Core MVC Areas (optional)
-├── Controllers/               # MVC Controllers for handling HTTP requests
-├── Migrations/                # Entity Framework Core migrations (optional)
+├── Properties/                # Project properties (assembly info, launch settings, etc.)
+├── wwwroot/                   # Static files (CSS, JS, images, etc.)
+├── Areas/                     # Optional MVC areas for modular functionality
+├── Controllers/               # MVC controllers to handle HTTP requests
+├── Migrations/                # Entity Framework Core migration files
 ├── Models/                    # Domain models representing database entities
-├── Repositories/              # Repositories for data access logic
-├── Screenshots/               # Project screenshots (optional)
-├── Views/                     # Razor views for rendering UI
-├── appsettings.json           # Application settings and configuration
-└── Program.cs                 # Entry point of the application
+├── Repositories/              # Repository classes to handle data access
+├── Screenshots/               # Screenshots or images (optional folder)
+├── Views/                     # Razor views for UI rendering
+├── appsettings.json           # Application configuration (e.g., database connection strings)
+└── Program.cs                 # Main entry point of the application
 
 
 ## ScreenShots

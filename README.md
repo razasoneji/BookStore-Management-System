@@ -24,8 +24,8 @@ Welcome to the Book Store Management System, a .NET Core MVC project using Entit
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/book-store-management.git
-   cd book-store-management
+   git clone https://github.com/razasoneji/BookStore-Management-System.git
+   cd bookstore
 3. **Database Setup:**
   - Update the connection string in appsettings.json to point to your database.
     ```bash

@@ -36,3 +36,6 @@ Welcome to the Book Store Management System, a .NET Core MVC project using Entit
     ```bash
     Update-Database
 4. **Run the Application:**
+
+## ScreenShots
+https://github.com/razasoneji/BookStore-Management-System/blob/main/screenshots/login.png

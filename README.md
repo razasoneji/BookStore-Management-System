@@ -42,9 +42,9 @@ Welcome to the Book Store Management System, a .NET Core MVC project using Entit
 ![login](https://github.com/user-attachments/assets/bbabbb1b-a58b-4913-b0c3-e84226a11980)
 
 
-![register](https://github.com/user-attachments/asse
+![register](https://github.com/user-attachments/assets/882fb5b5-219d-45d3-b9f9-c9033a30f74e)
 ![forgotpassword](https://github.com/user-attachments/assets/f8958aa5-ec8b-49e7-9578-2ee342c3a172)
-ts/882fb5b5-219d-45d3-b9f9-c9033a30f74e)
+
 
 
 

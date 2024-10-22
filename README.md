@@ -37,6 +37,9 @@ Welcome to the Book Store Management System, a .NET Core MVC project using Entit
     Update-Database
 4. **Run the Application:**
 
+## ER Diagram
+
+![ER-diagram](https://github.com/user-attachments/assets/e7c08435-d565-4a22-9555-1a63570348fc)
 
 ## ScreenShots
 ![login](https://github.com/user-attachments/assets/bbabbb1b-a58b-4913-b0c3-e84226a11980)
